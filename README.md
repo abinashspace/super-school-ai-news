@@ -48,3 +48,9 @@ author, licence and source.
 - The file must be under 512 KB and valid JSON, otherwise the app keeps its previous copy.
 - A story missing a headline, body or Tamil text is ignored.
 - Review every story before publishing: students trust it.
+
+## What is in the feed now
+
+One story a day for each age group, from 25 October to 30 November 2026 (37 days, 111 stories), all with
+English and Tamil and a free-licence photo. The photo credits are inside each story in `news.json`.
+The text was drafted with an AI assistant and **must be reviewed by a person before students rely on it**.
