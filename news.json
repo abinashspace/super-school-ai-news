@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "updated": "2026-10-25",
+  "stories": [
+    {
+      "id": "f-2026-10-24-little",
+      "group": "little",
+      "date": "2026-10-24",
+      "image": { "bundled": "codingKids" },
+      "en": {
+        "headline": "Computers follow instructions",
+        "summary": "A computer does only what its instructions tell it to do.",
+        "body": [
+          "A computer is very fast, but it cannot think like you. It does exactly what it is told.",
+          "The instructions we write for a computer are called code. People who write code are called programmers.",
+          "Many students in India now learn to code at school. They start with small, fun puzzles."
+        ],
+        "why": "Learning to give clear instructions is the first step to understanding AI.",
+        "think": "How would you tell a friend, step by step, how to draw a house?"
+      },
+      "ta": {
+        "headline": "கணினிகள் அறிவுறுத்தல்களைப் பின்பற்றுகின்றன",
+        "body": [
+          "கணினி மிக வேகமாக வேலை செய்யும், ஆனால் உங்களைப் போல சிந்திக்க முடியாது. அதற்குச் சொன்னதை அப்படியே செய்யும்.",
+          "கணினிக்கு நாம் எழுதும் அறிவுறுத்தல்களுக்கு குறியீடு (code) என்று பெயர். குறியீடு எழுதுபவர்கள் நிரலாளர்கள் (programmers) எனப்படுவர்.",
+          "இந்தியாவில் பல மாணவர்கள் இப்போது பள்ளியிலேயே நிரலாக்கம் கற்கிறார்கள். சிறிய, வேடிக்கையான புதிர்களுடன் தொடங்குகிறார்கள்."
+        ],
+        "why": "தெளிவான அறிவுறுத்தல்களைக் கொடுக்கக் கற்றுக்கொள்வது AI-ஐப் புரிந்துகொள்வதற்கான முதல் படி.",
+        "think": "ஒரு வீட்டை வரைவது எப்படி என்று நண்பனுக்குப் படிப்படியாக எப்படிச் சொல்வீர்கள்?"
+      }
+    },
+    {
+      "id": "f-2026-10-24-middle",
+      "group": "middle",
+      "date": "2026-10-24",
+      "image": { "bundled": "typing" },
+      "en": {
+        "headline": "Why AI needs good data",
+        "summary": "An AI learns from examples, so poor examples make a poor AI.",
+        "body": [
+          "An AI system learns by looking at many examples, such as photos or sentences.",
+          "If the examples are mostly about one kind of person or place, the AI may work well for them and badly for others.",
+          "That is why builders try to collect data that is varied and fair, and why they test their AI on many different people."
+        ],
+        "why": "The quality of the data decides how fair and useful an AI can be.",
+        "think": "If an AI only saw photos from big cities, what might it get wrong in a village?"
+      },
+      "ta": {
+        "headline": "AI-க்கு நல்ல தரவு ஏன் தேவை",
+        "body": [
+          "ஒரு AI அமைப்பு புகைப்படங்கள் அல்லது வாக்கியங்கள் போன்ற பல எடுத்துக்காட்டுகளைப் பார்த்துக் கற்கிறது.",
+          "எடுத்துக்காட்டுகள் பெரும்பாலும் ஒரே வகை மனிதர்கள் அல்லது இடங்களைப் பற்றியதாக இருந்தால், அவர்களுக்கு AI நன்றாக வேலை செய்யலாம்; மற்றவர்களுக்கு மோசமாகச் செய்யலாம்.",
+          "அதனால்தான் உருவாக்குபவர்கள் பல வகையான, நியாயமான தரவைச் சேகரிக்க முயல்கிறார்கள்; பலதரப்பட்ட மனிதர்களிடம் தங்கள் AI-ஐச் சோதிக்கிறார்கள்."
+        ],
+        "why": "ஒரு AI எவ்வளவு நியாயமாகவும் பயனுள்ளதாகவும் இருக்கும் என்பதைத் தரவின் தரமே தீர்மானிக்கிறது.",
+        "think": "ஒரு AI பெரு நகரங்களின் புகைப்படங்களை மட்டுமே பார்த்திருந்தால், ஒரு கிராமத்தில் அது என்ன தவறு செய்யக்கூடும்?"
+      }
+    },
+    {
+      "id": "f-2026-10-24-senior",
+      "group": "senior",
+      "date": "2026-10-24",
+      "image": { "bundled": "datacenter" },
+      "en": {
+        "headline": "Behind every AI answer is a data centre",
+        "summary": "AI runs in large buildings full of computers that use a lot of electricity.",
+        "body": [
+          "When you ask an AI a question, the work usually happens in a data centre: a building full of powerful computers.",
+          "Training and running large AI models uses a lot of electricity and cooling, so companies and governments are looking for cleaner and more efficient ways to do it.",
+          "Smaller models that run on a phone or laptop are one way to save energy, and they can also keep your data on your own device."
+        ],
+        "why": "AI has real-world costs. Engineers must balance usefulness against energy use and privacy.",
+        "think": "When is a big AI model worth using, and when would a small one do?"
+      },
+      "ta": {
+        "headline": "ஒவ்வொரு AI பதிலுக்குப் பின்னாலும் ஒரு தரவு மையம் உள்ளது",
+        "body": [
+          "நீங்கள் ஒரு AI-யிடம் கேள்வி கேட்கும்போது, வேலை பெரும்பாலும் ஒரு தரவு மையத்தில் நடக்கிறது: சக்திவாய்ந்த கணினிகள் நிறைந்த ஒரு கட்டடம்.",
+          "பெரிய AI மாதிரிகளைப் பயிற்றுவிக்கவும் இயக்கவும் நிறைய மின்சாரமும் குளிர்விப்பும் தேவை; அதனால் நிறுவனங்களும் அரசுகளும் தூய்மையான, திறமையான வழிகளைத் தேடுகின்றன.",
+          "தொலைபேசி அல்லது மடிக்கணினியிலேயே இயங்கும் சிறிய மாதிரிகள் ஆற்றலைச் சேமிக்க ஒரு வழி; உங்கள் தரவையும் உங்கள் சாதனத்திலேயே வைத்திருக்க அவை உதவும்."
+        ],
+        "why": "AI-க்கு நிஜ உலகச் செலவுகள் உண்டு. பயன் மற்றும் ஆற்றல் பயன்பாடு, தனியுரிமை ஆகியவற்றைப் பொறியாளர்கள் சமநிலைப்படுத்த வேண்டும்.",
+        "think": "பெரிய AI மாதிரியைப் பயன்படுத்துவது எப்போது மதிப்புடையது, சிறியது எப்போது போதும்?"
+      }
+    }
+  ]
+}
